@@ -3,7 +3,8 @@
 <br />
 
 I'm a passionate young girl who is into coding;)
-<img alt="jessice view count" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4" />
+<br>
+<img alt="jessice view count" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
 
 **About me**
 
