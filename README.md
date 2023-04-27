@@ -2,8 +2,7 @@
 
 <br />
 
-<br><br>
-<img alt="jessice view count" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
+<img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
 
 **About me**
 
