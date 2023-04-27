@@ -19,5 +19,5 @@ I'm a passionate young girl who is into coding;)
 <code><img height="20" alt="spring" src="https://img.icons8.com/color/512/spring-logo.png"></code>    
 
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaaSun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jessica's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaaSun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href=""><img align="center" src="[https://github-readme-stats.vercel.app/api?username=JessicaaSun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true](https://github-readme-stats.vercel.app/api?username=JessicaaSun&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)" alt="Jessica's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaaSun&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
