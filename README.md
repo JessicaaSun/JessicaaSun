@@ -18,6 +18,7 @@
 
 
 | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaaSun&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Jessica's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaaSun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br><br>
 <img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
