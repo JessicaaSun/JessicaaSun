@@ -1,4 +1,4 @@
-<p align="center"><a href="https://JessicaaSun.github.io"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
+<p align="center"><a href="https://github.com/JessicaaSun"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
 
 <br />
 
