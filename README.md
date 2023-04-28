@@ -22,7 +22,7 @@
 <div>
  
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif] (https://github.com/JessicaaSun/JessicaaSun/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 <img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
