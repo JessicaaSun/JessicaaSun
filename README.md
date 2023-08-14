@@ -20,6 +20,5 @@
 | <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaaSun&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Jessica's github stats" /></a> | <a href="" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaaSun&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![snake gif](https://github.com/JessicaaSun/JessicaaSun/blob/output/github-contribution-grid-snake.gif)
 
 <img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
