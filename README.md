@@ -4,11 +4,11 @@
 
 **About me**
 
-- 🎓 A sophmore majoring computer science at <a target="_blank" href="http://www.rupp.edu.kh/">Royal University of Phnom Penh</a>.
+- 🎓 A junior majoring computer science at <a target="_blank" href="http://www.rupp.edu.kh/">Royal University of Phnom Penh</a>.
 
-- 💯 A scholarship student at <a target="_blank" href="https://istad.co/">Institute of Science and Technology Advanced Development</a> learning <strong>full stack development</strong>.
+- 💯 A scholarship student at <a target="_blank" href="https://istad.co/">Institute of Science and Technology Advanced Development</a> learning <strong>Data Analytics</strong>.
 
-- ❤️ I love learing new things and of course, cat 🐈
+- ❤️ I love learing new things.
  
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
