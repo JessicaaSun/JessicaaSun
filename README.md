@@ -14,3 +14,9 @@
 
 
 <img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://drive.google.com/file/d/1gGDuh37tYIho0Uo-isXsQR4kQq95rIa4/view?usp=drive_link" />
+</picture>
