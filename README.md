@@ -7,9 +7,7 @@
 📹 And yes — I'm a content creator too!
 <br />
 ✨ I’m passionate about learning, building, and sharing.<br />
-💡 I love exploring new tech, teaching others, and creating cool things<br />
-<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
-
+💡 I love exploring new tech, teaching others, and creating cool things
 <br />
 
 ### 💻 Tech Stack:
@@ -17,6 +15,9 @@
 
 | <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaaSun&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Jessica's github stats" /></a> | <a href="" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaaSun&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<br />
+<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
 
 
 <img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
