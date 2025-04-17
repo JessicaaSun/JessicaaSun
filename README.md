@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Jessica Sun!
-🎓 I'm a final year Computer Science student at RUPP (Royal University of Phnom Penh).
-💻 Currently working as a Software Developer at ZANDO.
-🧑‍🏫 Former Frontend Development & Data Analytics Instructor at ISTAD.
-💼 Previously a Frontend Developer at AsurRaa.
-🌐 Also working as an online frontend developer instructor.
+🎓 I'm a final year Computer Science student at RUPP (Royal University of Phnom Penh). <br />
+💻 Currently working as a Software Developer at ZANDO. <br />
+🧑‍🏫 Former Frontend Development & Data Analytics Instructor at ISTAD.<br />
+💼 Previously a Frontend Developer at AsurRaa.<br />
+🌐 Also working as an online frontend developer instructor.<br />
 📹 And yes — I'm a content creator too!
-
-✨ I’m passionate about learning, building, and sharing.
-💡 I love exploring new tech, teaching others, and creating cool things
+<br />
+✨ I’m passionate about learning, building, and sharing.<br />
+💡 I love exploring new tech, teaching others, and creating cool things<br />
 <p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
 
 <br />
