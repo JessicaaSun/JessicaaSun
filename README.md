@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Jessica Sun!
 🎓 I'm a final year Computer Science student at RUPP (Royal University of Phnom Penh). <br />
-💻 Currently working as a Software Developer at ZANDO. <br />
 🧑‍🏫 Former Frontend Development & Data Analytics Instructor at ISTAD.<br />
 💼 Previously a Frontend Developer at AsurRaa.<br />
 🌐 Also working as an online frontend developer instructor.<br />
