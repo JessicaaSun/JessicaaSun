@@ -1,12 +1,11 @@
-### Hi there 👋 I'm Jessica Sun!
-🎓 I'm a final year Computer Science student at RUPP (Royal University of Phnom Penh). <br />
+### Hi twin, I’m Jessica
+🎓 A final year Computer Science student at RUPP (Royal University of Phnom Penh). <br />
 🧑‍🏫 Former Frontend Development & Data Analytics Instructor at ISTAD.<br />
 💼 Previously a Frontend Developer at AsurRaa.<br />
-🌐 Also working as an online frontend developer instructor.<br />
-📹 And yes — I'm a content creator too!
+🌐 An online frontend developer instructor.<br />
+📹 And somewhere between all that — I make content too (I post once in 5 months lol).
 <br />
-✨ I’m passionate about learning, building, and sharing.<br />
-💡 I love exploring new tech, teaching others, and creating cool things
+✨ And I like creating things that feel a little bit like art — even if they’re made of brackets and semicolons.<br />
 <br />
 
 ### 💻 Tech Stack:
