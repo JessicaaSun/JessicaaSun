@@ -15,6 +15,5 @@
 | ------------- | ------------- |
 
 <br />
-<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" 
 <img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
 <br/>
