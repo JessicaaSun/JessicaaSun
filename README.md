@@ -5,7 +5,6 @@
 🌐 An online frontend developer instructor.<br />
 📹 And somewhere between all that — I make content too (I post once in 5 months lol).
 <br />
-✨ And I like creating things that feel a little bit like art — even if they’re made of brackets and semicolons.<br />
 <br />
 
 ### 💻 Tech Stack:
