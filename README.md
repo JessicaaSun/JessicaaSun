@@ -3,7 +3,7 @@
 🧑‍🏫 A Former Frontend Development & Data Analytics Instructor at ISTAD.<br />
 💼 A Former Frontend Developer at AsurRaa.<br />
 💼 A Former Software Developer at ZANDO Group.<br />
-📹 And somewhere between all that — I make content too (I post once in 5 months lol).
+📹 I make content too (I post once in 5 months lol).
 <br />
 <br />
 
