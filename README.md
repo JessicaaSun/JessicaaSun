@@ -1,5 +1,4 @@
 ### Hi twin, I’m Jessica
-🎓 A final year Computer Science student at RUPP (Royal University of Phnom Penh). <br />
 🧑‍🏫 A Former Frontend Development & Data Analytics Instructor at ISTAD.<br />
 💼 A Former Frontend Developer at AsurRaa.<br />
 💼 A Former Software Developer at ZANDO Group.<br />
